@@ -4,7 +4,7 @@
 
 I build backend systems and AI-powered applications with a focus on **Python, scalable APIs, data-intensive systems, and practical AI engineering**.
 
-Currently focused on **Python backend development with FastAPI**, while exploring **LLMs, RAG, agentic systems, and AI infrastructure**.
+Currently focused on **Python backend development with FastAPI**, while exploring **LLMs, RAG, agentic systems.
 
 ---
 
